@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="assets/wc3_peon.jpg" alt="Warcraft 3 Peon" width="117"/>
+
 <!--
 **Ch-E/Ch-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
