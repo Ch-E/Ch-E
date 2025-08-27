@@ -6,7 +6,8 @@
   <br>and payment switching.
 </p><br>
 
-🔭 I’m currently working on skinXchange, a Counter-Strike 2 skin trading platform.<br>
+🔭 When I'm not playing CS2, I work on skinXchange, a Counter-Strike 2 skin trading platform.
+
 🌱 Leveling up in Go, Web3 and DeFi.
 
 <!--
