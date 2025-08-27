@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<img src="assets/wc3_peon.jpg" alt="Warcraft 3 Peon" width="117"/>
+<p>
+  <img src="assets/wc3_peon.jpg" alt="Warcraft 3 Peon" width="50" align="left" />
+  I work work for the largest bank in Africa as a software developer, specializing in cards & payments
+  <br>and payment switching.
+</p>
 
 <!--
 **Ch-E/Ch-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
