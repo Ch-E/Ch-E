@@ -4,10 +4,10 @@
   <img src="assets/wc3_peon.jpg" alt="Warcraft 3 Peon" width="50" align="left" />
   I work work for the largest bank in Africa as a software developer, specializing in cards & payments
   <br>and payment switching.
-</p>
+</p><br>
 
-🔭 I’m currently working on skinXchange, a Counter-Strike 2 skin trading platform.
-🌱 Currently leveling up in Go, Web3 and DeFi.
+🔭 I’m currently working on skinXchange, a Counter-Strike 2 skin trading platform.<br>
+🌱 Leveling up in Go, Web3 and DeFi.
 
 <!--
 **Ch-E/Ch-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
