@@ -2,8 +2,7 @@
 
 <p>
   <img src="assets/wc3_peon.jpg" alt="Warcraft 3 Peon" width="40" align="left" />
-  I work work for the largest bank in Africa as a software developer, specializing in cards & payments
-  <br>and payment switching.
+  Software Engineer specialized in cards & payments and payment switching.
 </p>
 🔭 Currently working on skinXchange, a Counter-Strike 2 skin trading platform.<br>
 🌱 Leveling up in Go, Web3 and DeFi.
