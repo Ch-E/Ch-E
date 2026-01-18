@@ -3,7 +3,7 @@
 <p>
   <img src="assets/wc3_peon.jpg" alt="Warcraft 3 Peon" width="40" align="left" />
   Software Engineer specializing in card payment systems 
-  and payment switching.
+  <br>and payment switching.
 </p>
 
 🔭 Currently working on skinXchange, a Counter-Strike 2 skin trading platform.<br>
