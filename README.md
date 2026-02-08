@@ -6,8 +6,8 @@
   <br>and payment switching.
 </p>
 
-🔭 Currently working on skinXchange, a Counter-Strike 2 skin trading platform.<br>
-🌱 Leveling up in Go, Web3 and DeFi.
+🔭 Currently building <a href="https://skinxchange.io/">skinXchange</a>, a Counter-Strike 2 skin trading platform  
+🌱 Leveling up in Go, Web3 and DeFi
           
 <!--
 **Ch-E/Ch-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
