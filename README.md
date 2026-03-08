@@ -6,7 +6,7 @@
   <br>and payment switching.
 </p>
 
-🔭 Currently building <a href="https://skinxchange.io/">skinXchange</a>, a Counter-Strike 2 skin trading platform  
+🔭 Currently building <a href="https://skinxchange.io/">skinXchange</a>, a Counter-Strike 2 skin marketplace  
 🌱 Leveling up in Go, Web3 and DeFi
           
 <!--
