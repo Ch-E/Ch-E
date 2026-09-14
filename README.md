@@ -6,7 +6,7 @@
   <br>and payment switching.
 </p>
           
-## Tech Stack
+## Tech Stack:
 
 ### Backend & Frontend
 <p align="left">
